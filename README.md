@@ -2,7 +2,7 @@
 **Sistem Manajemen Laporan Operasional Kapal Penumpang PELNI**
 
 <div align="center">
-  <img src="assets/PELNI.png" alt="Logo PELNI" width="300" height="auto">
+  <img src="assets/PELNI.png" alt="Logo PELNI" width="500" height="auto">
   <br>
   <br>
   <p>
@@ -35,9 +35,9 @@ Berikut adalah antarmuka aplikasi saat digunakan:
 ![Input Data](assets/Screenshot%202026-01-02%20at%2006.03.03.png)
 *Antarmuka input data yang bersih memudahkan perwira jaga memasukkan data operasional.*
 
-### 2. Arsip & Pencarian Data
-![Arsip Data](assets/Screenshot%2026-01-02%at%06.03.21.png)
-*Fitur pencarian riwayat perjalanan yang cepat dan akurat.*
+### 2. Arsip Laporan (Pop-up)
+![Arsip Laporan Kosong](assets/Screenshot%202026-01-02%20at%2006.03.21.png)
+*Tampilan modal arsip saat belum ada laporan yang disimpan.*
 
 ---
 
