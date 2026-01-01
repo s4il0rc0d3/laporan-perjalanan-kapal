@@ -1,8 +1,8 @@
-# Laporan Perjalanan Kapal ( LPK )
+# Laporan Perjalanan Kapal (LPK)
 **Sistem Manajemen Laporan Operasional Kapal Penumpang PELNI**
 
 <div align="center">
-  <img src="path/to/your/logo.png" alt="Logo Perusahaan" width="200" height="auto">
+  <img src="assets/PELNI.png" alt="Logo PELNI" width="300" height="auto">
   <br>
   <br>
   <p>
@@ -14,16 +14,16 @@
 
 ## 📖 Tentang Aplikasi
 
-Aplikasi **Laporan Perjalanan Kapal** ini dirancang khusus untuk memenuhi kebutuhan operasional kapal penumpang, khususnya standar **PELNI (Pelayaran Nasional Indonesia)**.
+Aplikasi **Laporan Perjalanan Kapal** ini dirancang khusus untuk memenuhi kebutuhan operasional kapal penumpang, mengikuti standar **PELNI (Pelayaran Nasional Indonesia)**.
 
-Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional (file manual) yang seringkali berantakan, sulit dilacak, dan rentan hilang. Dengan sistem ini, seluruh data perjalanan kapal tersimpan dalam database lokal komputer yang aman, terstruktur, dan mudah diakses kembali.
+Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang seringkali berantakan, sulit dilacak, dan rentan hilang. Dengan sistem ini, seluruh data perjalanan kapal tersimpan dalam database lokal komputer yang aman, terstruktur, dan mudah diakses kembali untuk kebutuhan pelaporan atau audit.
 
 ### 🔥 Fitur Utama
-* **Input Data Terpusat:** Form input yang disesuaikan dengan standar laporan perjalanan laut.
-* **Database Lokal:** Penyimpanan data yang aman di komputer (tidak memerlukan internet terus-menerus).
-* **Pencarian Cepat (Smart Search):** Mencari arsip laporan lama hanya dengan kata kunci (tanggal, nama pelabuhan, atau nomor voyage).
-* **Export & Print:** Kemudahan mengubah data menjadi format siap cetak atau PDF untuk kebutuhan administrasi pelabuhan.
-* **Manajemen Arsip:** Mencegah penumpukan file manual yang tidak teratur.
+* **Input Data Terstandar:** Form input digital yang disesuaikan dengan logbook harian kapal.
+* **Database Lokal (Offline):** Penyimpanan data mandiri di komputer tanpa ketergantungan internet.
+* **Smart Search:** Mencari arsip laporan lama dalam hitungan detik berdasarkan Voyage.
+* **Export & Print:** Kemudahan mencetak laporan fisik yang rapi dari data digital.
+* **Manajemen Arsip:** Menghilangkan risiko penumpukan dokumen fisik yang tidak teratur.
 
 ---
 
@@ -31,29 +31,28 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional (file
 
 Berikut adalah antarmuka aplikasi saat digunakan:
 
-### 1. Halaman Dashboard & Input Data
-![Tampilan Input Data](assets/screenshot_input.png)
-*Tampilan form input yang user-friendly untuk perwira kapal.*
+### 1. Dashboard & Input Laporan
+![Input Data](assets/Screenshot%202026-01-02%20at%2006.03.03.png)
+*Antarmuka input data yang bersih memudahkan perwira jaga memasukkan data operasional.*
 
-### 2. Halaman Arsip & Pencarian
-![Tampilan Pencarian](assets/screenshot_search.png)
-*Fitur pencarian arsip laporan berdasarkan tanggal dan voyage.*
+### 2. Arsip & Pencarian Data
+![Arsip Data](assets/Screenshot%2026-01-02%at%06.03.21.png)
+*Fitur pencarian riwayat perjalanan yang cepat dan akurat.*
 
 ---
 
 ## 🚀 Cara Menggunakan Aplikasi
 
-Ikuti langkah berikut untuk memulai pencatatan laporan:
-
-1.  **Buka Aplikasi:** Jalankan aplikasi di komputer (Desktop/Web Local).
-2.  **Input Laporan Baru:**
-    * Klik menu **"Buat Laporan Baru"**.
-    * Isi data perjalanan (Posisi, Cuaca, Status Mesin, Penumpang).
-    * Klik **"Simpan ke Database"**.
-4.  **Mencari & Cetak Laporan:**
-    * Masuk ke menu **"Arsip Laporan"**.
-    * Ketik nomor voyage atau tanggal di kolom pencarian.
-    * Klik tombol **"Print"** atau **"Download PDF"**.
+1.  **Buka Aplikasi:** Jalankan aplikasi melalui shortcut desktop.
+2.  **Input Laporan:**
+    * Masuk ke menu Input.
+    * Isi data voyage, posisi, dan status kapal.
+    * Klik **Simpan**. Data otomatis tersimpan di LocalStorage.
+3.  **Mencari Laporan:**
+    * Buka menu Arsip.
+    * Ketik kata kunci di kolom pencarian.
+4.  **Cetak/Download:**
+    * Pilih laporan yang diinginkan, lalu klik tombol Print untuk kebutuhan administrasi.
 
 ---
 
@@ -74,7 +73,10 @@ Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang ce
   * Menggunakan sistem penyimpanan lokal berbasis *browser-storage* yang ringan.
   * **Zero-Config:** Tidak memerlukan instalasi database server (SQL) yang rumit.
   * **Offline-First:** Data tersimpan aman di komputer lokal pengguna, sangat cocok untuk kondisi kapal yang minim sinyal internet.
-  * **JSON Handling:** Manipulasi data menggunakan format JSON standar industri.
+
+---
+
 <div align="center">
-  <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small>
+  <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small><br>
+  <small>SailorCode</small>
 </div>
