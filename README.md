@@ -46,8 +46,7 @@ Berikut adalah antarmuka aplikasi saat digunakan:
 Ikuti langkah berikut untuk memulai pencatatan laporan:
 
 1.  **Buka Aplikasi:** Jalankan aplikasi di komputer (Desktop/Web Local).
-2.  **Login User:** Masuk menggunakan kredensial perwira jaga.
-3.  **Input Laporan Baru:**
+2.  **Input Laporan Baru:**
     * Klik menu **"Buat Laporan Baru"**.
     * Isi data perjalanan (Posisi, Cuaca, Status Mesin, Penumpang).
     * Klik **"Simpan ke Database"**.
@@ -58,15 +57,24 @@ Ikuti langkah berikut untuk memulai pencatatan laporan:
 
 ---
 
-## 🛠️ Teknologi
+## 🛠️ Teknologi yang Digunakan
 
-Aplikasi ini dibangun menggunakan teknologi modern untuk performa yang stabil di atas kapal:
-* **Bahasa:** (Isi bahasa pemograman, misal: Dart/JavaScript)
-* **Framework:** (Isi framework, misal: Flutter / React / Electron)
-* **Database:** (Isi database, misal: SQLite / PostgreSQL)
+Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang cepat, ringan, dan dapat berjalan secara offline di atas kapal:
 
----
+### 💻 Core & Desktop Engine
+* **Electron:** Mengemas aplikasi web menjadi *software desktop native* yang dapat diinstal di komputer kapal.
+* **TypeScript (.ts, .tsx):** Bahasa pemrograman utama yang menjamin keamanan tipe data (*type-safety*) untuk meminimalisir *bug* saat operasional.
 
+### 🎨 User Interface (Frontend)
+* **React + Vite:** Membangun antarmuka yang responsif dengan performa *loading* super cepat.
+* **Tailwind CSS:** Framework styling untuk menciptakan tampilan modern dan konsisten.
+
+### 💾 Data Persistence (Penyimpanan Data)
+* **LocalStorage API:**
+  * Menggunakan sistem penyimpanan lokal berbasis *browser-storage* yang ringan.
+  * **Zero-Config:** Tidak memerlukan instalasi database server (SQL) yang rumit.
+  * **Offline-First:** Data tersimpan aman di komputer lokal pengguna, sangat cocok untuk kondisi kapal yang minim sinyal internet.
+  * **JSON Handling:** Manipulasi data menggunakan format JSON standar industri.
 <div align="center">
   <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small>
 </div>
