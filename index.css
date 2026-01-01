@@ -1,0 +1,152 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles untuk Laporan Perjalanan Kapal */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Scrollbar Styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #1e293b;
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Hide Number Input Spinners (Arrows) */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* Print Specific Styles */
+@media print {
+  @page {
+    margin: 0;
+    size: auto;
+  }
+
+  /* Named page untuk landscape - mengikuti ukuran kertas user (A4/F4) */
+  @page landscape-page {
+    size: A4 landscape;
+    margin: 5mm 8mm;
+  }
+
+  /* Named page untuk portrait */
+  @page portrait-page {
+    size: A4 portrait;
+    margin: 5mm;
+  }
+
+  /* Landscape orientation - optimized untuk A4 & F4 */
+  .page-landscape {
+    page: landscape-page;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    overflow: visible;
+    page-break-inside: avoid !important;
+    page-break-before: auto !important;
+    page-break-after: avoid !important;
+    transform: none !important;
+    scale: 1 !important;
+  }
+
+  /* Portrait orientation */
+  .page-portrait {
+    page: portrait-page;
+    width: 210mm;
+    min-height: 297mm;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Chrome-specific fixes for consistent rendering */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+}
+
+/* Animation utilities */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes zoom-in {
+  from {
+    transform: scale(0.95);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+.animate-in {
+  animation-fill-mode: both;
+}
+
+.fade-in {
+  animation-name: fade-in;
+}
+
+.zoom-in {
+  animation-name: zoom-in;
+}
+
+.duration-200 {
+  animation-duration: 200ms;
+}
