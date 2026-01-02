@@ -1,5 +1,7 @@
-# Laporan Perjalanan Kapal (LPK)
-**Sistem Manajemen Laporan Operasional Kapal Penumpang PELNI**
+<div align="center"><h1>Laporan Perjalanan Kapal (LPK)</h1></div>
+
+<div align="center">Sistem Manajemen Laporan Operasional Kapal Penumpang PELNI</div>
+<br>
 
 <div align="center">
   <img src="assets/PELNI.png" alt="Logo PELNI" width="500" height="auto">
@@ -56,6 +58,18 @@ Berikut adalah antarmuka aplikasi saat digunakan:
 
 ---
 
+<div align="center">
+<h3>🐛 Lapor Kerusakan (Bug Report)</h3>
+  
+Menemukan error atau aplikasi tidak jalan? Jangan sungkan lapor di sini:
+
+[👉 KLIK DISINI UNTUK LAPOR KERUSAKAN](https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/issues)
+
+*Mohon sertakan screenshot error agar cepat diperbaiki.*
+</div>
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang cepat, ringan, dan dapat berjalan secara offline di atas kapal:
@@ -76,6 +90,7 @@ Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang ce
 
 ---
 
+
 ## 🤝 Dukungan & Donasi
 
 <div align="center">Halo kawan-kawan pelaut! 👋
@@ -92,11 +107,6 @@ Salam satu jangkar! ⚓
 ---
 
 <div align="center">
-  <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small><br>
-  <small>SailorCode</small>
-</div>
-
-<div align="center">
   <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
     <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Download%20Aplikasi&color=blue" alt="Download Aplikasi">
   </a>
@@ -107,3 +117,10 @@ Salam satu jangkar! ⚓
   </a>
 </div>
 <br>
+
+---
+
+<div align="center">
+  <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small><br>
+  <small>SailorCode</small>
+</div>
