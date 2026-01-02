@@ -70,6 +70,20 @@ Menemukan error atau aplikasi tidak jalan? Jangan sungkan lapor di sini:
 
 ---
 
+<div align="center">
+<h3>📞 Kontak & Lapor Bug</h3>
+
+Jika menemukan error atau butuh bantuan instalasi, silakan hubungi saya via Telegram:
+
+<a href="https://t.me/sailorcode" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Chat_Developer-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Chat via Telegram">
+</a>
+
+*Mohon sebutkan nama kapal dan deskripsi error saat menghubungi.*
+</div>
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang cepat, ringan, dan dapat berjalan secara offline di atas kapal:
@@ -93,7 +107,7 @@ Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang ce
 
 ## 🤝 Dukungan & Donasi
 
-<div align="center">Halo kawan-kawan pelaut! 👋
+<div align="center"><h3>Halo kawan-kawan pelaut! 👋</h3>
 
 Terima kasih sudah menggunakan aplikasi Laporan Perjalanan Kapal. Aplikasi ini saya buat sendiri (Indie) untuk memudahkan pekerjaan kita di atas kapal biar administrasi makin rapi.
 Kalau aplikasi ini bermanfaat buat kamu, boleh dong sisihkan sedikit rejeki buat traktir saya kopi atau rokok. Dukungan kalian bikin saya semangat begadang buat benerin bug dan nambah fitur baru.
