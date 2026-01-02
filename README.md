@@ -25,6 +25,20 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang 
 * **Export & Print:** Kemudahan mencetak laporan fisik yang rapi dari data digital.
 * **Manajemen Arsip:** Menghilangkan risiko penumpukan dokumen fisik yang tidak teratur.
 
+
+<div align="center">
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
+    <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Versi%20Terbaru&color=blue" alt="Versi Terbaru">
+  </a>
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
+    <img src="https://img.shields.io/github/downloads/s4ll0rc0d3/laporan-perjalanan-kapal/total?style=for-the-badge&label=Total%20Download&color=success" alt="Total Download">
+  </a>
+  <br>
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
+    <b>📥 KLIK DISINI UNTUK DOWNLOAD APLIKASI</b>
+  </a>
+</div>
+
 ---
 
 ## 📸 Tampilan Aplikasi (Screenshots)
@@ -73,6 +87,21 @@ Aplikasi ini dibangun dengan *Tech Stack* modern untuk menjamin performa yang ce
   * Menggunakan sistem penyimpanan lokal berbasis *browser-storage* yang ringan.
   * **Zero-Config:** Tidak memerlukan instalasi database server (SQL) yang rumit.
   * **Offline-First:** Data tersimpan aman di komputer lokal pengguna, sangat cocok untuk kondisi kapal yang minim sinyal internet.
+
+---
+
+## 🤝 Dukungan & Donasi
+
+<div align="center">Halo kawan-kawan pelaut! 👋
+
+Terima kasih sudah menggunakan aplikasi Laporan Perjalanan Kapal. Aplikasi ini saya buat sendiri (Indie) untuk memudahkan pekerjaan kita di atas kapal biar administrasi makin rapi.
+Kalau aplikasi ini bermanfaat buat kamu, boleh dong sisihkan sedikit rejeki buat traktir saya kopi atau rokok. Dukungan kalian bikin saya semangat begadang buat benerin bug dan nambah fitur baru.
+Salam satu jangkar! ⚓
+
+<a href="https://saweria.co/sailorcode" target="_blank">
+  <img src="https://img.shields.io/badge/Saweria-Traktir_Kopi_☕-orange?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Traktir Kopi di Saweria" height="40" />
+</a>
+</div>
 
 ---
 
