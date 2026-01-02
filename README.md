@@ -27,17 +27,16 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang 
 
 
 <div align="center">
-  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
-    <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Versi%20Terbaru&color=blue" alt="Versi Terbaru">
-  </a>
-  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
-    <img src="https://img.shields.io/github/downloads/s4ll0rc0d3/laporan-perjalanan-kapal/total?style=for-the-badge&label=Total%20Download&color=success" alt="Total Download">
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
+    <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Download%20Aplikasi&color=blue" alt="Download Aplikasi">
   </a>
   <br>
-  <a href="[https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest](https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/releases/tag/LPK)">
-    <b>📥 KLIK DISINI UNTUK DOWNLOAD APLIKASI</b>
+  <br>
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
+    <b>📥 KLIK DISINI UNTUK MEMILIH VERSI DOWNLOAD</b>
   </a>
 </div>
+<br>
 
 ---
 
