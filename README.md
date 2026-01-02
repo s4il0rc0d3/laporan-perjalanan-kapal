@@ -131,10 +131,13 @@ Salam satu jangkar! ⚓
   </a>
 </div>
 <br>
+<div align="center">
+  <img src="https://img.shields.io/github/downloads/s4il0rc0d3/laporan-perjalanan-kapal/total?style=for-the-badge&label=Total%20Download&color=success" alt="Total Download">
+</div>
 
 ---
 
 <div align="center">
   <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small><br>
-  <small>SailorCode</small>
+  <small>"SailorCode"</small>
 </div>
