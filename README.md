@@ -32,8 +32,8 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang 
   </a>
   <br>
   <br>
-  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
-    <b>📥 KLIK DISINI UNTUK MEMILIH VERSI DOWNLOAD</b>
+  <a href="https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/releases">
+    <b>📥 KLIK DISINI UNTUK DOWNLOAD (Pilih Versi Terbaru)</b>
   </a>
 </div>
 <br>
