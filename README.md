@@ -34,7 +34,7 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang 
     <img src="https://img.shields.io/github/downloads/s4ll0rc0d3/laporan-perjalanan-kapal/total?style=for-the-badge&label=Total%20Download&color=success" alt="Total Download">
   </a>
   <br>
-  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest">
+  <a href="[https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases/latest](https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/releases/tag/LPK)">
     <b>📥 KLIK DISINI UNTUK DOWNLOAD APLIKASI</b>
   </a>
 </div>
