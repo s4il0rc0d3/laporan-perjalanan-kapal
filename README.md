@@ -25,19 +25,6 @@ Aplikasi ini bertujuan untuk mengatasi masalah manajemen data konvensional yang 
 * **Export & Print:** Kemudahan mencetak laporan fisik yang rapi dari data digital.
 * **Manajemen Arsip:** Menghilangkan risiko penumpukan dokumen fisik yang tidak teratur.
 
-
-<div align="center">
-  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
-    <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Download%20Aplikasi&color=blue" alt="Download Aplikasi">
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/releases">
-    <b>📥 KLIK DISINI UNTUK DOWNLOAD (Pilih Versi Terbaru)</b>
-  </a>
-</div>
-<br>
-
 ---
 
 ## 📸 Tampilan Aplikasi (Screenshots)
@@ -108,3 +95,15 @@ Salam satu jangkar! ⚓
   <small>Dikembangkan untuk efisiensi operasional laut Indonesia.</small><br>
   <small>SailorCode</small>
 </div>
+
+<div align="center">
+  <a href="https://github.com/s4ll0rc0d3/laporan-perjalanan-kapal/releases">
+    <img src="https://img.shields.io/github/v/release/s4ll0rc0d3/laporan-perjalanan-kapal?style=for-the-badge&label=Download%20Aplikasi&color=blue" alt="Download Aplikasi">
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/s4il0rc0d3/laporan-perjalanan-kapal/releases">
+    <b>📥 KLIK DISINI UNTUK DOWNLOAD (Pilih Versi Terbaru)</b>
+  </a>
+</div>
+<br>
